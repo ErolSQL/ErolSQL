@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ErolSQL
 - 👀 I’m interested in math and freelancing.
 - 🌱 I’m currently learning web development and such new things.
-- 💞️ I’m looking to collaborate with Sebastian Dobrincu in the future.
 - 📫 How to reach me - Discord ( Erol#7620 )
 
 <!---
