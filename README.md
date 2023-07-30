@@ -1,5 +1,3 @@
-- Does a superior being possess the right to commit a crime if it ultimately benefits all of humanity?
-
 - Get in touch with me through email - erolvsc@gmail.com
 
 <!---
