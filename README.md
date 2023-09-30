@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Erol</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🔭 I’m currently working on **my own saas ( coming soon )**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 reach me at **erol@ciucur.com**
