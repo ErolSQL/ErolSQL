@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 reach me at **erol@ciucur.com**
+- 📫 reach me at **erolvsc@gmail.com**
 
 <p align="left">
 </p>
